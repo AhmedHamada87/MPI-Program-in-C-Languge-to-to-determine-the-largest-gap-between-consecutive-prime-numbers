@@ -1,0 +1,2 @@
+# MPI Program in C Languge to to determine the largest gap between consecutive prime numbers
+ C program using MPI to determine the largest gap between consecutive prime numbers for all integers less than 1,000,000. Prime numbers are numbers greater than 1 that have no divisors other than 1 and themselves. The gap between consecutive prime numbers is defined as the difference between a prime number and the prime number that immediately follows it. 
